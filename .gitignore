@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+### INTELLIJ ###
+.idea/
+*/.DS_Store
+
+node_modules/

@@ -1,0 +1,12 @@
+{
+  "name": "APITool",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^0.14.7"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
